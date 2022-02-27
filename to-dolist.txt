@@ -3,3 +3,5 @@ Hi I am Quan and here is my todo list for git
 2. Download Git & Register Github Account
 3. Initialize first git here in the D disk
 4. commit first message in git
+5. deepen into git
+6. knownotthing 4real
