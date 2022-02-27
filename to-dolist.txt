@@ -5,3 +5,7 @@ Hi I am Quan and here is my todo list for git
 4. commit first message in git
 5. deepen into git
 6. knownotthing 4real
+7. continue to checkout a new branch in Git
+8. Here is the syntax git checkout -b test
+9. -b stands for a new branch
+10. test is the name of the new created branch
